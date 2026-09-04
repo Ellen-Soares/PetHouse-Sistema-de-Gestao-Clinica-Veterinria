@@ -1,4 +1,4 @@
-# 🐾 PetHouse — Sistema de Gestão Veterinária
+# 🐾 PetHouse — Sistema de Gestão Clínica Veterinária
 
 > Sistema web completo para gestão de clínicas veterinárias, desenvolvido em HTML, CSS e JavaScript puro. Funciona diretamente no navegador, sem necessidade de instalação ou servidor.
 
