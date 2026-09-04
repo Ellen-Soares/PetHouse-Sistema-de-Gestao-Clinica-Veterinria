@@ -20,7 +20,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **PetHouse** é um protótipo operacional de sistema de gestão para clínicas veterinárias de bairro, desenvolvido como projeto acadêmico na disciplina de **Prototipagem de Sistemas Computacionais** da Universidade Cidade de São Paulo (UCSP).
+O **PetHouse** é um protótipo operacional de sistema de gestão para clínicas veterinárias de bairro, desenvolvido como projeto acadêmico na disciplina de **Prototipagem de Sistemas Computacionais** da Universidade Cidade de São Paulo (UNICID).
 
 O sistema resolve problemas reais identificados em clínicas que ainda operam de forma manual — cadernos, planilhas soltas e mensagens —, centralizando em uma única plataforma:
 
@@ -197,7 +197,7 @@ O protocolo pode ser:
 Desenvolvido por **Ellen Cristina Soares de Jesus**
 
 **Professor:** Marcelo de Freitas Pintaud  
-**Instituição:** Universidade Cidade de São Paulo (UCSP)  
+**Instituição:** Universidade Cidade de São Paulo (UNICID)  
 **Disciplina:** Prototipagem de Sistemas Computacionais — 2026
 
 ---
